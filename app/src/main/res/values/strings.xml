@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get - Post</string>
+    <string name="get">Get</string>
+    <string name="post">Post</string>
+    <string name="name">Anonymus</string>
+    <string name="toast">Something went wrong, try it later!</string>
+</resources>
