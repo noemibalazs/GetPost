@@ -1,4 +1,3 @@
-# GetPost
 
 Get - Post
 
