@@ -1,5 +1,4 @@
 # GetPost
-First Commit
 
 Get - Post
 
